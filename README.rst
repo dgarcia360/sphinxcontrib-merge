@@ -48,7 +48,7 @@ See the `open issues <https://github.com/dgarcia360/sphinxcontrib-merge/issues>`
 Contributing
 ============
 
-Contributions are welcome and appreciated! Check `CONTRIBUTING.md  <https://github.com/dgarcia360/sphinxcontrib-merge/blob/master/CONTRIBUTING.md>`_ file.
+Contributions are welcome and appreciated! Check `CONTRIBUTING.md  <CONTRIBUTING.md>`_ file.
 
 License
 =======
